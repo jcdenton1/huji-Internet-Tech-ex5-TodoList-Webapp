@@ -1,0 +1,3 @@
+1. What was hard? The main difficulty was at the beginning of the exercise. I couldn't understand what to do with the start and stop methods of the server and it took me a lot of time to think about the design and how to extend the static server from the previous exercise. Once I got through that obstacle it went smoothly.
+2. What was fun? The beginning of the exercise was a little frustrating. From there everything went smoothly. In general I enjoy writing in JS, it's fun.
+3. My dynamic server doesn't serve requests parallely. I could just write an infinite loop in the handler and it will handle my request forever. (while(1))

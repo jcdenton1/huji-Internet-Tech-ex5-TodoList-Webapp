@@ -1,0 +1,12 @@
+1.  What was hard: Nothing was remarkably hard. Maybe playing with cookies took me longer than expected, 
+	also because I had to fix a bug in my ex4 server.
+2.  What was easy: I took the 2 css files in the vanillaJS example and used them. It helped a lot since 
+	I didn't have to spend time on creating a good looking UI. The rest of the static resources I wrote
+	from scratch.
+3.	What I'd have done differently: I'd implement it using the MVC design pattern but due to serious time
+	limitations I really wanted to keep it simple.
+4.  Comments about the course: I really enjoyed the exercises in this course. Before taking it, I always
+	told myself that I'm not interested in web development, but during the course and exercises I 
+	learned that Javascript and Node are very awesome and a lot of fun to use. Ex5 in particular was a 
+	lot of fun because we needed to implement both the frontEnd and the backEnd. 
+	It was very nice and insightful writing an app from scratch.

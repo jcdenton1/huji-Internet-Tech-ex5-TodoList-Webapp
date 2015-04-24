@@ -1,0 +1,22 @@
+Test 1: registration of a first user.
+Test 2: registration with the same user as above. should return status 500.
+Test 3: registration of a second user.
+Test 4: use /item with GET method without login.
+Test 5: use /item with POST method without login.
+Test 6: use /item with PUT method without login.
+Test 7: use /item with DELETE method without login.
+Test 8: Login with the first user.
+Test 9: Get list. should receive an empty list.
+Test 10: Add 1st item to the list.
+Test 11: Add 2nd item to the list.
+Test 12: Try to add a new item with an existing id. This should fail.
+Test 13: Add 3rd item to the list using PUT method.
+Test 14: Update one of the items using PUT method.
+Test 15: Get list. should see all elements.
+Test 16: Delete first element.
+Test 17: Delete last element.
+Test 18: Delete non-existing element. Nothing should happen (shouldn't return Internal error).
+Test 19: Get list. Should see a single element.
+Test 20: Add a new item to the list.
+Test 21: Delete all using id = -1.
+Test 22: Get list. Should see an empty list.

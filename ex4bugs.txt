@@ -1,0 +1,7 @@
+Bugs encountered in my server while writing ex5:
+
+1. 	This was the only serious bug I found: 
+	I didn't handle cookies well. The method that added cookies to the response was wrong, 
+	and also the way that I parsed the cookies to the response was wrong (it was non existant).
+2.	path.normalize usage was added to hujiwebserver.static method.
+3. 	another minor bug that I don't remember
